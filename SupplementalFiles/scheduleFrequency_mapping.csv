@@ -1,0 +1,5 @@
+﻿drug_exposure.quantity/drus_exposure.days_supply,NCIT Term,NCIT Target Identifier
+1,Daily,ncit:C125004
+2,Twice Daily,ncit:C64496
+3,Three Times Daily,ncit:C64527
+4,Four Times Daily,ncit:C64530

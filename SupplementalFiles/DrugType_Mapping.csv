@@ -1,0 +1,7 @@
+﻿OMOP Concept ID,OMOP Concept Name,Phenopacket Drug Type
+32818,EHR administration record,Inpatient/EHR Medication List
+32833,EHR order,Inpatient/EHR Medication List
+32821,EHR billing record,Inpatient/EHR Medication List
+32839,EHR prescription issue record,Outpatient/Prescription
+32825,EHR dispensing record,Inpatient/EHR Medication List
+32879,Registry,Administration Related to One time Procedure

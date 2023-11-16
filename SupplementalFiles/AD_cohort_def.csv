@@ -1,0 +1,57 @@
+﻿,ID,Concept Class ID,Concept Code,Concept ID,Concept Name,Domain ID,Invalid Reason,Invalid Reason Caption,Standard Concept,Standard Concept Caption,Vocabulary ID
+0,2,Ingredient,135447,715997,donepezil,Drug,V,Valid,S,Standard,RxNorm
+1,3,3-dig nonbill code,290,44824105,Dementias,Condition,V,Valid,N,Non-Standard,ICD9CM
+2,3,4-dig nonbill code,290.1,44820708,Presenile dementia,Condition,V,Valid,N,Non-Standard,ICD9CM
+3,3,5-dig billing code,290.1,44835773,"Presenile dementia, uncomplicated",Condition,V,Valid,N,Non-Standard,ICD9CM
+4,3,5-dig billing code,290.11,44821810,Presenile dementia with delirium,Condition,V,Valid,N,Non-Standard,ICD9CM
+5,3,5-dig billing code,290.12,44834581,Presenile dementia with delusional features,Condition,V,Valid,N,Non-Standard,ICD9CM
+6,3,5-dig billing code,290.13,44836954,Presenile dementia with depressive features,Condition,V,Valid,N,Non-Standard,ICD9CM
+7,3,4-dig billing code,290,44835772,"Senile dementia, uncomplicated",Condition,V,Valid,N,Non-Standard,ICD9CM
+8,3,4-dig billing code,290.3,44831078,Senile dementia with delirium,Condition,V,Valid,N,Non-Standard,ICD9CM
+9,3,5-dig billing code,290.2,44820709,Senile dementia with delusional features,Condition,V,Valid,N,Non-Standard,ICD9CM
+10,3,4-dig nonbill code,290.2,44833397,Senile dementia with delusional or depressive features,Condition,V,Valid,N,Non-Standard,ICD9CM
+11,3,5-dig billing code,290.21,44819534,Senile dementia with depressive features,Condition,V,Valid,N,Non-Standard,ICD9CM
+12,3,4-dig nonbill code,290.4,44831079,Vascular dementia,Condition,V,Valid,N,Non-Standard,ICD9CM
+13,3,5-dig billing code,290.4,44827641,"Vascular dementia, uncomplicated",Condition,V,Valid,N,Non-Standard,ICD9CM
+14,3,5-dig billing code,290.41,44824106,"Vascular dementia, with delirium",Condition,V,Valid,N,Non-Standard,ICD9CM
+15,3,5-dig billing code,290.42,44821811,"Vascular dementia, with delusions",Condition,V,Valid,N,Non-Standard,ICD9CM
+16,3,5-dig billing code,290.43,44829914,"Vascular dementia, with depressed mood",Condition,V,Valid,N,Non-Standard,ICD9CM
+17,3,4-dig billing code,291.1,44824107,Alcohol-induced persisting amnestic disorder,Condition,V,Valid,N,Non-Standard,ICD9CM
+18,3,4-dig billing code,291.2,44819535,Alcohol-induced persisting dementia,Condition,V,Valid,N,Non-Standard,ICD9CM
+19,3,4-dig billing code,291,44826487,Alcohol withdrawal delirium,Condition,V,Valid,N,Non-Standard,ICD9CM
+20,3,5-dig billing code,331.11,44835825,Pick's disease,Condition,V,Valid,N,Non-Standard,ICD9CM
+21,3,5-dig billing code,292.82,44826489,Drug-induced persisting dementia,Condition,V,Valid,N,Non-Standard,ICD9CM
+22,3,4-dig billing code,331,44826537,Alzheimer's disease,Condition,V,Valid,N,Non-Standard,ICD9CM
+23,3,4-dig nonbill code,294.1,44821814,Dementia in conditions classified elsewhere,Condition,V,Valid,N,Non-Standard,ICD9CM
+24,3,5-dig billing code,294.11,44827644,Dementia in conditions classified elsewhere with behavioral disturbance,Condition,V,Valid,N,Non-Standard,ICD9CM
+25,3,5-dig billing code,294.1,44829917,Dementia in conditions classified elsewhere without behavioral disturbance,Condition,V,Valid,N,Non-Standard,ICD9CM
+26,3,5-dig billing code,331.82,44833435,Dementia with lewy bodies,Condition,V,Valid,N,Non-Standard,ICD9CM
+27,3,5-dig billing code,331.19,44824152,Other frontotemporal dementia,Condition,V,Valid,N,Non-Standard,ICD9CM
+28,3,4-dig billing code,294.8,44827645,Other persistent mental disorders due to conditions classified elsewhere,Condition,V,Valid,N,Non-Standard,ICD9CM
+29,3,Clinical Finding,281004,378726,Dementia associated with alcoholism,Condition,V,Valid,S,Standard,SNOMED
+30,3,Clinical Finding,191519005,374888,Dementia associated with another disease,Condition,V,Valid,S,Standard,SNOMED
+31,3,Clinical Finding,191493005,376095,Drug-induced dementia,Condition,V,Valid,S,Standard,SNOMED
+32,3,Clinical Finding,70936005,377254,"Multi-infarct dementia, uncomplicated",Condition,V,Valid,S,Standard,SNOMED
+33,3,Clinical Finding,10349009,444091,Multi-infarct dementia with delirium,Condition,V,Valid,S,Standard,SNOMED
+34,3,Clinical Finding,25772007,443790,Multi-infarct dementia with delusions,Condition,V,Valid,S,Standard,SNOMED
+35,3,Clinical Finding,14070001,443864,Multi-infarct dementia with depression,Condition,V,Valid,S,Standard,SNOMED
+36,3,Clinical Finding,12348006,378125,Presenile dementia,Condition,V,Valid,S,Standard,SNOMED
+37,3,Clinical Finding,191452002,381832,Presenile dementia with delirium,Condition,V,Valid,S,Standard,SNOMED
+38,3,Clinical Finding,191455000,377527,Presenile dementia with depression,Condition,V,Valid,S,Standard,SNOMED
+39,3,Clinical Finding,191461002,376946,Senile dementia with delirium,Condition,V,Valid,S,Standard,SNOMED
+40,3,Clinical Finding,371024007,380986,Senile dementia with delusion,Condition,V,Valid,S,Standard,SNOMED
+41,3,Clinical Finding,191459006,379784,Senile dementia with depression,Condition,V,Valid,S,Standard,SNOMED
+42,3,Clinical Finding,191451009,376085,Uncomplicated presenile dementia,Condition,V,Valid,S,Standard,SNOMED
+43,3,Clinical Finding,191449005,375791,Uncomplicated senile dementia,Condition,V,Valid,S,Standard,SNOMED
+44,3,Clinical Finding,429998004,443605,Vascular dementia,Condition,V,Valid,S,Standard,SNOMED
+45,3,Clinical Finding,111479008,374009,Organic mental disorder,Condition,V,Valid,S,Standard,SNOMED
+46,3,Clinical Finding,73097000,374623,Alcohol amnestic disorder,Condition,V,Valid,S,Standard,SNOMED
+47,3,Clinical Finding,8635005,377830,Alcohol withdrawal delirium,Condition,V,Valid,S,Standard,SNOMED
+48,3,Clinical Finding,26929004,378419,Alzheimer's disease,Condition,V,Valid,S,Standard,SNOMED
+49,3,Clinical Finding,80098002,380701,Diffuse Lewy body disease,Condition,V,Valid,S,Standard,SNOMED
+50,3,Clinical Finding,230270009,4043378,Frontotemporal dementia,Condition,V,Valid,S,Standard,SNOMED
+51,3,Clinical Finding,15662003,4048875,Senile dementia,Condition,V,Valid,S,Standard,SNOMED
+52,3,Clinical Finding,52448006,4182210,Dementia,Condition,V,Valid,S,Standard,SNOMED
+53,3,Clinical Finding,1.59E+12,43530666,Dementia with behavioral disturbance,Condition,V,Valid,S,Standard,SNOMED
+54,3,Clinical Finding,1.59E+12,43530666,Dementia with behavioral disturbance,Condition,V,Valid,S,Standard,SNOMED
+55,3,Clinical Finding,3.11E+13,44782771,Presenile dementia with delusions,Condition,V,Valid,S,Standard,SNOMED
