@@ -1,7 +1,7 @@
 
 -- Set the database names and person_id
 DECLARE @db NVARCHAR(128) = 'patient_db'; -- Replace with the patient database name 
-DECLARE @ohdsi_db NVARCHAR(128) = 'ohdsi_vocabulary_2023q3r1'; -- Replace with the OHDSI vocabulary database name 
+DECLARE @ohdsi_db NVARCHAR(128) = 'ohdsi_vocabulary_db'; -- Replace with the OHDSI vocabulary database name 
 DECLARE @pid INT = 123456; -- Replace with the desired person_id (pid)
 
 -- Create a dynamic SQL query with placeholders for the db name and pid
