@@ -2,7 +2,7 @@
 
 This repository converts the Observational Medical Outcomes Partnership Common Data Model ([OMOP CDM](https://www.ohdsi.org/data-standardization/)) to the Global Alliance for Genomics and Health ([GA4GH](https://www.ga4gh.org/#/)) [Phenopackets](http://phenopackets.org/) schema.
 
-Accompanying manuscript under review
+📎 Accompanying manuscript under review
 * This repository is part of study that aims to promote interoperability in precision medicine and translational research by aligning the OMOP and Phenopackets data models.
 
 This work expands on prior conversion from OMOP to Phenopackets developed during a hackathon, that can be found here: https://github.com/phenopackets/omop-exporter
