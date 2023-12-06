@@ -16,3 +16,6 @@ Note: This work expands on prior conversion from OMOP to Phenopackets developed 
 
 ## Semantic Type Filtering
 There are certain domains (high-level categories) in the two data models that do not have clear correspondence, namely OMOP's [_Condition_](https://ohdsi.github.io/CommonDataModel/cdm53.html#CONDITION_OCCURRENCE) includes concepts that best align with either Phenopackets [_Disease_](https://phenopacket-schema.readthedocs.io/en/latest/disease.html) or [_PhenotypicFeature_](https://phenopacket-schema.readthedocs.io/en/latest/phenotype.html). To resolve this ambiguity in alignment, we incorporate semantic type filtering leveraging tools provided by the Unified Medical Language System ([UMLS](https://www.nlm.nih.gov/research/umls/index.html)). 
+
+## Contact
+https://people.dbmi.columbia.edu/~chw7007/
