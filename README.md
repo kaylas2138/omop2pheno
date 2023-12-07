@@ -5,7 +5,7 @@ This repository converts the Observational Medical Outcomes Partnership Common D
 ⏳ Accompanying manuscript under review
 * This repository is part of study that aims to promote interoperability in precision medicine and translational research by aligning the OMOP and Phenopackets data models.
 
-Note: This work expands on prior conversion from OMOP to Phenopackets developed during a hackathon, that can be found here: https://github.com/phenopackets/omop-exporter
+Note: This work expands on prior conversion from OMOP to Phenopackets developed that can be found here: https://github.com/phenopackets/omop-exporter
 
 ## Repository Guide
 * **Mappings** Details on the mappings of OMOP to Phenopackets can be found in the `SupplementalFiles`. For further reference on the attributes of each model, see [Phenopackets](https://phenopacket-schema.readthedocs.io/en/latest/index.html) or [OMOP](https://ohdsi.github.io/CommonDataModel/cdm53.html) documentation.
